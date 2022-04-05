@@ -1,5 +1,5 @@
 # UXDR
-UX Design Resources for Everyone
+### UX Design Resources for Everyone
 
 1. [Interaction Design Foundation](https://www.interaction-design.org/literature) - A library of open-source UX design resources, including new articles published every day. There are also local meet-ups (virtual and in-person) that are free to attend and open to everyone.
 2. [Adobe XD Ideas](https://xd.adobe.com/ideas/) - A blog curated for entry-level and senior UX designers. You’ll find inspiring examples of great design, valuable career tips, and more.
